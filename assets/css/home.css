@@ -1,0 +1,14 @@
+#det {
+  padding: 15px;
+  font-size: 1.2rem;
+}
+#logo {
+  height: 240px;
+  width: 400px;
+  margin: auto;
+  background-image: url("https://media.istockphoto.com/photos/two-bubble-talk-or-comment-sign-symbol-on-blue-background-picture-id1304849823?b=1&k=20&m=1304849823&s=170667a&w=0&h=WyxXj3Pj8gAD-9UP3bijhKuKFW2_1kCamAa-XbJrpxQ=");
+  background-size: cover;
+}
+/* body {
+  background-image: url("https://media.istockphoto.com/photos/vector-hexagons-pattern-geometric-abstract-background-with-simple-picture-id1307794659?b=1&k=20&m=1307794659&s=170667a&w=0&h=8utxIGEIgxxX_rUGxa5DtS7MQIaCHvQjt1eBrU28lEg=");
+} */
